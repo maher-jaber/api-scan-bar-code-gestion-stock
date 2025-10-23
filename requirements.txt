@@ -3,4 +3,4 @@ uvicorn
 python-multipart
 opencv-python
 Pillow
-zbarlight
+pyzbar
