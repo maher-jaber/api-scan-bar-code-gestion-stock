@@ -4,4 +4,3 @@ python-multipart
 opencv-python-headless
 Pillow
 pyzbar
-numpy
